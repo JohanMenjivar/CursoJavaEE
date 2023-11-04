@@ -1,0 +1,4 @@
+sv\com\gm\sga\domain\Persona.class
+test\ClientePersonaService.class
+ClienteEJBSeguridad.class
+sv\com\gm\sga\servicio\PersonaServiceRemote.class

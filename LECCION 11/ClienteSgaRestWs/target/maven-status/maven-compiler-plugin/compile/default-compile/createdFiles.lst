@@ -1,0 +1,4 @@
+domain\Persona.class
+test\TestPersonaServiceRS.class
+sv\com\gm\sga\clientesgarestws\ClienteSgaRestWs.class
+test\TestPersonaServiceRS$1.class
